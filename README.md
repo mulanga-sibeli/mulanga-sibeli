@@ -1,19 +1,16 @@
 # Mulanga Sibeli
 
-Big Data Analytics (Data Science) student at the University of the Witwatersrand.
-
 Currently:
-+ lead for the Google Student Developer Club at the University of the Witwatersrand.
-+ software engineerat retro-rabbit (contracted under standardbank).
++ Software engineer at retro-rabbit (contracted under standardbank).
++ Big Data Analytics (Data Science) student at the University of the Witwatersrand.
++ Lead for the Google Student Developer Club at the University of the Witwatersrand.
 
 Interests include:
 
-Software Development.
-Data Analysis/Data Science.
-Internet of Things (IoT).
+Software Engineering.
+Data Science.
 
 ## Contact Info
-
 email: s.mulanga@outlook.com
 cell: 0813417609
 
