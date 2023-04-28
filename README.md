@@ -1,7 +1,10 @@
 # Mulanga Sibeli
 
-Computer Science student at the University of the Witwatersrand.
-Currently the Mobile Development Lead for the Google Student Developer Club at the University of the Witwatersrand.
+Big Data Analytics (Data Science) student at the University of the Witwatersrand.
+
+Currently:
++ lead for the Google Student Developer Club at the University of the Witwatersrand.
++ software engineerat retro-rabbit (contracted under standardbank).
 
 Interests include:
 
@@ -11,6 +14,6 @@ Internet of Things (IoT).
 
 ## Contact Info
 
-Email: 2126182@students.wits.ac.za
-Cell: 0813417609
+email: s.mulanga@outlook.com
+cell: 0813417609
 
