@@ -1,7 +1,6 @@
 # Mulanga Sibeli
 
 Currently:
-+ Software engineer at retro-rabbit (contracted under standardbank).
 + Big Data Analytics (Data Science) student at the University of the Witwatersrand.
 + Lead for the Google Student Developer Club at the University of the Witwatersrand.
 
