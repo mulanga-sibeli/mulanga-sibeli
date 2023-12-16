@@ -1,8 +1,12 @@
 # Mulanga Sibeli
 
 Currently:
-+ Big Data Analytics (Data Science) student at the University of the Witwatersrand.
-+ Lead for the Google Student Developer Club at the University of the Witwatersrand.
+Associate Software Engineer, EPI-USE.
+
+Education:
+
++ Bsc(Hons) Big Data Analytics (Data Science) @ the University of the Witwatersrand.
++ Bsc Computer Science & Computational Applications @ the University of the Witwatersrand.
 
 Interests include:
 
