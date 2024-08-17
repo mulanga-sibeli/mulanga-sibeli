@@ -11,7 +11,7 @@ Education:
 Interests include:
 
 Software Engineering.
-Data Science.
+Applying AI to real-world problems.
 
 ## Contact Info
 email: s.mulanga@outlook.com
